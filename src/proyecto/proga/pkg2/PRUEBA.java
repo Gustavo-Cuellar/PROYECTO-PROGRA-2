@@ -11,6 +11,6 @@ package proyecto.proga.pkg2;
  */
 public class PRUEBA {
         public static void main(String[] args) {
-            System.out.println("hola");
+            System.out.println("hola mundo");
     }
 }
